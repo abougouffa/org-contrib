@@ -6,7 +6,7 @@ on:
 #      - __mirror
   schedule:
     # - cron: '42 3 * * *' ## 03:42
-    - cron: '5 * * * *'
+    - cron: '13 * * * *'
   # workflow_dispatch:
 
 jobs:
