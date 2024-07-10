@@ -2,7 +2,7 @@
 
 [![mirror](https://github.com/abougouffa/org-contrib/actions/workflows/mirror.yaml/badge.svg)](https://github.com/abougouffa/org-contrib/actions/workflows/mirror.yaml)
 
-This branch is set a the default one for mirroring purposes. **To access the code, please check the [master branch](../../tree/master)**.
+**This branch is set a the default one for mirroring purposes. *To access the code, please check the [master branch](../../tree/master)***.
 
 The `__mirror` branch is set as the **default** branch because of GitHub's schedule actions policy. The schedule actions can only be run on the default branch.
 
